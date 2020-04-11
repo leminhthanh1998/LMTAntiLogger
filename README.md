@@ -3,4 +3,4 @@ LMT Anti Logger là phần mềm hỗ trợ ngăn chặn những phần mềm ho
 
 Với giao diện rất đơn giản và không cần cài đặt phức tạp gì cả, LMT Anti Logger rất dễ sử dụng. Bạn chỉ cần khởi chạy, click nút kích hoạt, thế là xong.
 
-[![LMT Anti Logger](https://i.imgur.com/cbhyj5n.png)]
+[![LMT Anti Logger](https://i.imgur.com/LdBmpeF.png)]
